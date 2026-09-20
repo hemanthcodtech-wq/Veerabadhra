@@ -950,10 +950,10 @@ const updateStatus = async (orderId, status) => {
     <td style="width:${isPickup ? '100%' : '50%'};vertical-align:top;padding:12px;border:1px solid #e8d5b0;background:#FFFDFD;border-radius:4px;">
       <div style="font-size:9pt;font-weight:700;color:#08183A;text-transform:uppercase;letter-spacing:0.5px;border-bottom:1px solid #e8d5b0;padding-bottom:5px;margin-bottom:8px;">From</div>
       <div style="font-size:9.5pt;color:#555;line-height:1.6;">
-        <strong style="color:#08183A;">VEERABADHRA ENTERPRISE (U Praveen kumar)</strong><br>
-        10-34 Malkapur X road, Sangareddy-502001<br>
-        Phone/WhatsApp: +91 88860 00847<br>
-        GSTIN: 36DABPP4028M1ZG
+        <strong style="color:#08183A;">VEERABADHRA ENTERPRISE</strong><br>
+        H.no 24-425 ranga reddy nagar idpl colony.<br>
+        Phone/WhatsApp: +91 99853 49912<br>
+        GSTIN: 36AMBPN0939Q2ZJ
       </div>
     </td>
     ${!isPickup ? `
@@ -1002,7 +1002,7 @@ const updateStatus = async (orderId, status) => {
 </table>
 
 <div style="margin-top:30px;padding-top:12px;border-top:1px solid #e8d5b0;text-align:center;font-size:8.5pt;color:#999;">
-  Thank you for shopping with VEERABADHRA ENTERPRISE! &nbsp;|&nbsp;  &nbsp;|&nbsp; +91 88860 00847
+  Thank you for shopping with VEERABADHRA ENTERPRISE! &nbsp;|&nbsp;  &nbsp;|&nbsp; +91 99853 49912
 </div>
 
 <div class="print-btn">
