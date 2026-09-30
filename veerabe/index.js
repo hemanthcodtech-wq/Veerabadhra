@@ -9,6 +9,8 @@ const allowedOrigins = [
   'http://localhost:5173',
   // 'https://uptradershi.vercel.app',
   'https://veerabadhra.vercel.app',
+  'https://www.veerabhadraenterprises.in',
+  'https://veerabhadraenterprises.in',
   // 'https://upraders.in',
   
   process.env.FRONTEND_URL
